@@ -1,2 +1,2 @@
 # GPET
-Animal Social Network
+Pet Social Network
